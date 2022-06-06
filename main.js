@@ -16,6 +16,6 @@ function preload(){
     song = loadSound("music.mp3");
 }
 
-function song(){
+function play(){
     song.play();
 }
